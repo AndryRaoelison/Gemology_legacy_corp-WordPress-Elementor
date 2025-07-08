@@ -31,7 +31,7 @@ The layout is structured around the **Jumbotron style**, offering full-width, im
 - Balanced visual hierarchy for business credibility
 
 ## Preview
-![image](https://github.com/user-attachments/assets/b7eac562-d96f-45d2-9a27-f49690d04060)
+![image](https://github.com/user-attachments/assets/2ccee0d3-87b2-4384-b300-57f5cf7bd091)
 ![image](https://github.com/user-attachments/assets/8dfcb3c6-3f37-4726-966e-67cab544d16b)
 ![image](https://github.com/user-attachments/assets/27d6a046-675d-483a-9012-b891192d19bb)
 ![image](https://github.com/user-attachments/assets/bb7bc38b-8a85-457c-9d5e-ffd2e3d99c4a)
@@ -77,7 +77,7 @@ La mise en page adopte un **style Jumbotron**, avec des sections larges, immersi
 - Hiérarchie visuelle soignée pour une image de marque crédible
 
 ## Aperçu
-![image](https://github.com/user-attachments/assets/b7eac562-d96f-45d2-9a27-f49690d04060)
+![image](https://github.com/user-attachments/assets/2ccee0d3-87b2-4384-b300-57f5cf7bd091)
 ![image](https://github.com/user-attachments/assets/8dfcb3c6-3f37-4726-966e-67cab544d16b)
 ![image](https://github.com/user-attachments/assets/27d6a046-675d-483a-9012-b891192d19bb)
 ![image](https://github.com/user-attachments/assets/bb7bc38b-8a85-457c-9d5e-ffd2e3d99c4a)
